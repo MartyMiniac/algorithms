@@ -6,7 +6,7 @@ All the C++ and C Gods better stay the fuck away from me. Java is far more easy 
 
 ## Hey have you heard of Pytho..
 Before you say that let me say....<br>
-**BET STAY THE FUCK AWAY FROM ME**<br>
+**BETTER STAY THE FUCK AWAY FROM ME**<br>
 <br>
 
 ## I found a Issue in your code

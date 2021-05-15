@@ -1,6 +1,8 @@
+package searching;
+
 import java.util.Arrays;
 
-class insertionSort {
+public class InsertionSort {
     public static void main(String args[]) {
         int arr[] = arrayPooper(5, 5);
 
